@@ -1,6 +1,6 @@
 # My Projects Portfolio
 
-Welcome to my GitHub portfolio, where I showcase multiple projects I've worked on. Each project is described below, along with links to their respective code .
+Welcome to my GitHub portfolio, where I showcase multiple projects I've worked on. Each project has a GitHub Repository link, along with a Live Demo.
 
 ## Project 1: Coding Club
 
